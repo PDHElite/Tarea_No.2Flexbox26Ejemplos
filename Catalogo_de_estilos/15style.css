@@ -1,0 +1,36 @@
+.contenedor{
+    height:240px;
+    display:flex;
+    flex-flow:row wrap;
+    align-items:flex-start;
+    width: 100%;
+    margin: 0px auto;
+    background-color: #f3f3f3;
+    border: 1px solid #cccccc;
+    }
+    .elemento{
+        width:21%;
+        color: #ffffff;
+        text-align: center;
+        font-weight: bold;
+        padding: 10px 0px;
+        background-color: #0e074d;
+        }
+    
+        html {
+            font-size: 25px;
+            display: block;
+            }
+        body {
+            margin: 0px;
+            color: #ffffff;
+            font-family: "Open Sans", sans-serif;
+            font-weight: 600;
+            font-size: 2rem;
+            }
+            div {
+                display: block;
+            }
+        p{
+            color: #000000;  
+        }
